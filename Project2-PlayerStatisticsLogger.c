@@ -1,14 +1,15 @@
 /*
-name:     Gregory Pavlunenko
-user:     gpavlun
-course:   ECE 2220
-semester: Spring 2025
-project:  Player Statistics Logger
-purpose: lets you enter a football player's data
-assumpt: person does not have multiple middle names, theyre phone number is exactly 10 digits
-bugs: i dont know if you would consider it a bug, but you cannot exit out of an option once you select it.
-      you can put any combo of letters in for Class. It said etc. on the document so i assume you can put whatever.
-      if the player made exactly 1/10 of a cent of money, it will be read as an unkown value.
+name:       Gregory Pavlunenko
+user:       gpavlun
+course:     ECE 2220
+semester:   Spring 2025
+project:    Player Statistics Logger
+purpose:    Lets you enter a football player's data
+assumpt:    Person does not have multiple middle names, 
+            theyre phone number is exactly 10 digits.
+bugs:       I dont know if you would consider it a bug, but you cannot exit out of an option once you select it.
+            you can put any combo of letters in for Class. It said etc. on the document so i assume you can put whatever.
+            if the player made exactly 1/10 of a cent of money, it will be read as an unkown value.
 */
 #include <stdio.h>
 #include <stdlib.h>
