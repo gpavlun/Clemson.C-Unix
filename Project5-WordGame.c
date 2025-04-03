@@ -1,24 +1,27 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
+
 /*
 name:       Gregory Pavlunenko
 user:       gpavlun
-course:     ECE2220
-semester:   fall
-project:    5
+course:     ECE 2220
+semester:   Spring 2025
+project:    Word Game
 purpose:    This project is designed to replicate the word game "ZEN WORD".
             It will read a dictionary and generate a list of letters, then
             find up to 40 words with those letters and allow the user to
             guess them.
-assump.:    This code assumes a txt file with each line of that file being
+assumpt:    This code assumes a txt file with each line of that file being
             a single word.
 bugs:       none I know of
 notes:      This code is a bit of a beast, some things could have been done
             more effeciently, but with the time I had this was the best I
             could do. The game is fully functional though.      
 */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
 /*
 function:   SortWords
 purpose:    Sorts all of the given words by length
