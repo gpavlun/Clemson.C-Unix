@@ -1,4 +1,3 @@
-
 /*
 name:       Gregory Pavlunenko
 user:       gpavlun
