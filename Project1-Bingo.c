@@ -1,14 +1,14 @@
 /*
-name:     Gregory Pavlunenko
-user:     gpavlun
-course:   ECE2220
-semester: fall
-project:  1
-purpose: this code is designed to allow the user to play bingo,
-here called "tiger", by randomly generating a gameboard and 
-calling numbers from it. there are few assumptions here, other 
-than assuming the user has an enter and q key. and that they 
-want to play bingo. I do not know of any bugs with this.  
+name:       Gregory Pavlunenko
+user:       gpavlun
+course:     ECE 2220
+semester:   Spring 2025
+project:    Bingo
+purpose:    This code is designed to allow the user to play bingo,
+            here called "tiger", by randomly generating a gameboard and 
+            calling numbers from it. there are few assumptions here, other 
+            than assuming the user has an enter and q key. and that they 
+            want to play bingo. I do not know of any bugs with this.  
 */
 
 #include <stdio.h>
