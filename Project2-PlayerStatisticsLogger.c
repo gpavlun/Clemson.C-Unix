@@ -1,11 +1,11 @@
 /*
 name:     Gregory Pavlunenko
 user:     gpavlun
-course:   ECE2220
-semester: fall
-project:  2
+course:   ECE 2220
+semester: Spring 2025
+project:  Player Statistics Logger
 purpose: lets you enter a football player's data
-assumptions: person does not have multiple middle names, theyre phone number is exactly 10 digits
+assumpt: person does not have multiple middle names, theyre phone number is exactly 10 digits
 bugs: i dont know if you would consider it a bug, but you cannot exit out of an option once you select it.
       you can put any combo of letters in for Class. It said etc. on the document so i assume you can put whatever.
       if the player made exactly 1/10 of a cent of money, it will be read as an unkown value.
