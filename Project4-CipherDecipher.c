@@ -1,16 +1,15 @@
 /*
-name:     Gregory Pavlunenko
-user:     gpavlun
-course:   ECE2220
-semester: fall
-project:  4
-purpose:  This project is designed to take a word and a cipher and 
-          either encode or decode it based on that prompt
-assumptions: For encoding, not much, but for decoding, we do assume
-             that the cipher is the same lenght as the text
-bugs: none I know of
-notes: I wrote this entire thing in 3 hours, please have mercy I know the comments suck*/
-
+name:       Gregory Pavlunenko
+user:       gpavlun
+course:     ECE 2220
+semester:   Spring 2025
+project:    Cipher Decipher
+purpose:    This project is designed to take a word and a cipher and 
+            either encode or decode it based on that prompt.
+assumpt:    For encoding, not much, but for decoding, we do assume
+            that the cipher is the same lenght as the text.
+bugs:       
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
