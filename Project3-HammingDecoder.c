@@ -6,9 +6,9 @@ semester:   Spring 2025
 project:    Hamming Encoder
 purpose:    Encodes or decodes strings of characters using 
             hamming Code.
-assumptions: I am assuming that the person using this has some basic understanding of ASCII values
-bugs: none that I know of, but that doesn't mean there aren't any
-notes: I know this kind of looks like shit, I tried to comment it as well as I could
+assumpt:    I am assuming that the person using this has some 
+            basic understanding of ASCII values
+bugs: 
 */
 #include <stdio.h>
 #include <stdlib.h>
